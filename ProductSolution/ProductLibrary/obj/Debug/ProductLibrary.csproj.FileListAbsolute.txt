@@ -1,0 +1,6 @@
+D:\LAB2_SWT\ProductSolution\ProductLibrary\bin\Debug\ProductLibrary.dll
+D:\LAB2_SWT\ProductSolution\ProductLibrary\bin\Debug\ProductLibrary.pdb
+D:\LAB2_SWT\ProductSolution\ProductLibrary\obj\Debug\ProductLibrary.csproj.AssemblyReference.cache
+D:\LAB2_SWT\ProductSolution\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\LAB2_SWT\ProductSolution\ProductLibrary\obj\Debug\ProductLibrary.dll
+D:\LAB2_SWT\ProductSolution\ProductLibrary\obj\Debug\ProductLibrary.pdb

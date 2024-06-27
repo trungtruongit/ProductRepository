@@ -1,0 +1,17 @@
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\ProductRepositoryTests.dll
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\ProductRepositoryTests.pdb
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\ProductLibrary.dll
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\ProductLibrary.pdb
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\obj\Debug\ProductRepositoryTests.csproj.AssemblyReference.cache
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\obj\Debug\ProductRepositoryTests.csproj.CoreCompileInputs.cache
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\obj\Debug\ProductR.ECF92CAB.Up2Date
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\obj\Debug\ProductRepositoryTests.dll
+D:\LAB2_SWT\ProductSolution\ProductRepositoryTests\obj\Debug\ProductRepositoryTests.pdb
